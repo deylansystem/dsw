@@ -1,6 +1,3 @@
-Aquí tienes la guía formateada de forma profesional utilizando **Markdown**. He organizado los comandos en bloques de código, utilizado una jerarquía de títulos clara y añadido notas importantes para que el proceso sea fácil de seguir.
-
----
 
 # Guía de Configuración: Laravel + PostgreSQL
 
@@ -238,5 +235,3 @@ php artisan migrate
 php artisan serve
 
 ```
-
-¿Necesitas ayuda para personalizar el diseño de la vista o para añadir alguna funcionalidad de búsqueda a este listado?
